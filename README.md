@@ -4,8 +4,8 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonProLysenko&show_icons=true&locale=en&layout=donut&theme=gruvbox&exclude_repo=launch_elements,DockYardAcademy,GenServer_tests,blog_Elixir&langs_count=10" alt="ovi" />
  
- ## Main Technologies
- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+   <!--## Main Technologies
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
 
 
 
@@ -15,4 +15,4 @@
 ![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonProLysenko&show_icons=true&theme=gruvbox)
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antonprolysenkoleft_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=antonprolysenko&left_color=green&right_color=red)
