@@ -12,7 +12,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Anton-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-lysenko116/)
 <hr/>
  
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonProLysenko&show_icons=true&theme=gruvbox)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonProLysenko&show_icons=true&theme=gruvbox&exclude_repo=launch_elements)
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=antonprolysenkoleft_color=green&right_color=red)
